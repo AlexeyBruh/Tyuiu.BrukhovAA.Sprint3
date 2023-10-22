@@ -39,6 +39,7 @@ namespace Tyuiu.BrukhovAA.Sprint3.Task3.V8
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                             *");
             Console.WriteLine("**************************************************************************");
 
+
             Console.WriteLine("Число в строке = " + ds.ConvertStringToInt(value));
             Console.ReadKey();
         }
