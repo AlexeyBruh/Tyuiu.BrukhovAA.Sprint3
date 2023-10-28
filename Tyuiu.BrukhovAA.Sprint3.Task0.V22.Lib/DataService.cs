@@ -10,7 +10,7 @@ namespace Tyuiu.BrukhovAA.Sprint3.Task0.V22.Lib
 {
     public class DataService : ISprint3Task0V22
     {
-        public double GetSumSeries(double value, int startValue, int stopValue)
+        public double GetMultiplySeries(double value, int startValue, int stopValue)
         {
             double sumSeries = 0;
             int i;

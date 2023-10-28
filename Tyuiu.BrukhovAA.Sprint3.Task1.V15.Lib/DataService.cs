@@ -10,7 +10,7 @@ namespace Tyuiu.BrukhovAA.Sprint3.Task1.V15.Lib
 {
     public class DataService : ISprint3Task1V15
     {
-        public double GetMultiplySeries(double value, int startValue, int stopValue)
+        public double GetMultiplySeries(int value, int startValue, int stopValue)
         {
             double multSeries = 1;
             while (startValue <= stopValue)

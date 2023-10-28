@@ -14,7 +14,7 @@ namespace Tyuiu.BrukhovAA.Sprint3.Task1.V15.Test
 
             DataService ds = new DataService();
 
-            double value = 2;
+            int value = 2;
             int startValue = 1;
             int stopValue = 5;
 
